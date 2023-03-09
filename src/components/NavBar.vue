@@ -1,7 +1,7 @@
 <template>
   <nav>
     <ul>
-      <router-link active-class="active" to="/"
+      <router-link to="/"
         ><img class="img" src="../assets/altschool-logo.png" alt="logo"
       /></router-link>
       <li><router-link active-class="active" to="/">Home</router-link></li>
