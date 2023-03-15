@@ -111,8 +111,10 @@ li {
   color: #540bca;
 }
 .links{
-  padding: 20px;
-  font-size: 20px;
+ display: flex;
+}
+.links a {
+  margin-right: 20px;
 }
 
 .counter {

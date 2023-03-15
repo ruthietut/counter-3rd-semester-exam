@@ -8,13 +8,15 @@
       <p>I am an Altschool student,</p>
       <P>This is my submission for my 3rd semester exam</P>
       <div class="links">
-      <a
-        target="_blank"
-        href="https://github.com/ruthietut/counter-3rd-semester-exam"
-        >Github Link</a
-      >
-      <router-link active-class="active" to="./NotFound.vue">Error page</router-link>
-    </div>
+        <a
+          target="_blank"
+          href="https://github.com/ruthietut/counter-3rd-semester-exam"
+          >Github Link</a
+        >
+        <router-link active-class="active" to="./NotFound.vue"
+          >Error page</router-link
+        >
+      </div>
     </div>
   </div>
 </template>
