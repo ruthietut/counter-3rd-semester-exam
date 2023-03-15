@@ -7,7 +7,7 @@
       <p>My name is Ruthie Obasi,</p>
       <p>I am an Altschool student,</p>
       <P>This is my submission for my 3rd semester exam</P>
-      <div>
+      <div class="links">
       <a
         target="_blank"
         href="https://github.com/ruthietut/counter-3rd-semester-exam"

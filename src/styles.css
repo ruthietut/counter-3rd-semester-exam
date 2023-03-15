@@ -111,6 +111,10 @@ li {
   color: #540bca;
 }
 
+.links{
+  gap: 20px;
+}
+
 .counter {
   display: flex;
   align-items: center;
