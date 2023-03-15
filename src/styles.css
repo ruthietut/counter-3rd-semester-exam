@@ -110,9 +110,9 @@ li {
   border-bottom: 2px solid rgb(245, 241, 241);
   color: #540bca;
 }
-
 .links{
-  gap: 20px;
+  padding: 20px;
+  font-size: 20px;
 }
 
 .counter {
