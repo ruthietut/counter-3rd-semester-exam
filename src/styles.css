@@ -110,12 +110,6 @@ li {
   border-bottom: 2px solid rgb(245, 241, 241);
   color: #540bca;
 }
-.links{
- display: flex;
-}
-.links a {
-  margin-right: 20px;
-}
 
 .counter {
   display: flex;
