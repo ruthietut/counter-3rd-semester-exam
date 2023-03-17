@@ -1,7 +1,7 @@
 # counter-3rd-semester-exam
 
 ##
-https://ruthiecounterapp.netlify.app/
+https://counter-3rd-semester-exam.vercel.app/
 
 ## Project info
 
